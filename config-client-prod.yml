@@ -1,0 +1,8 @@
+server:
+  port: 7776
+---
+spring:
+  application:
+    name: config-client
+---
+name: config-client-produce
